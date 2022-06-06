@@ -16,7 +16,3 @@ def func():
     print(f"your total score is: {score} ")
 
 func()
-
-
-
-
