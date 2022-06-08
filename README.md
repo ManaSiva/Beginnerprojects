@@ -1,2 +1,2 @@
 # Beginnerprojects
-My projects which i made while learning
+My projects which are made while learning
